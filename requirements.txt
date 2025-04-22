@@ -1,0 +1,5 @@
+flask
+torch
+nemo_toolkit[asr]
+numpy
+werkzeug
